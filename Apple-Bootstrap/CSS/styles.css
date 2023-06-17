@@ -33,5 +33,12 @@
     }
 }
 
+@media (min-width: 981px){
+    body{
+        background-color: lime;
+    }
+}*{
+    background-color: aqua;
+}
 
 
