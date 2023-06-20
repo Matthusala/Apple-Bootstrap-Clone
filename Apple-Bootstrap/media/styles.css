@@ -18,6 +18,20 @@
     }
 }
 
+@media (min-width: 721px){
+    body{
+        background-color: yellow;
+    }
+    .container{
+        display: flex;
+    }
+    .square{
+        width: 50%;
+    }
+    .carl{
+        width: 50%;
+    }
+}
 
 
 @media (min-width: 981px){
